@@ -1,0 +1,42 @@
+p{
+color: red;
+ }
+ body{
+background-image: url("https://th.bing.com/th/id/R.0e45b684a34deec8c707b93a00c6b356?rik=HQhupteJBaQiCA&pid=ImgRaw&r=0");
+background-size: cover;
+background-position: left;
+font-family: 'Courier New', Courier, monospace;
+background-position: center;
+ }
+ .ROSA{
+    color: deeppink;
+}
+.BRANCO{
+    color: aliceblue
+    ;}
+.VERDE{
+color: green;
+}
+.CIANO{
+color: aqua;
+}
+ul{
+display: flex;
+justify-content: space-around;
+}
+.T{
+
+font-size: 75px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
